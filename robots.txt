@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yeefahghe.linndesign.se/sitemap.xml
